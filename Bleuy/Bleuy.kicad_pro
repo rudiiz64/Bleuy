@@ -243,7 +243,10 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "RC1587",
+      "RF LPF"
+    ],
     "pinned_symbol_libs": [
       "RF LFP"
     ]
